@@ -1,4 +1,4 @@
 pyvenv.cfg
 api-settings.json
-.Lib/
-.Scripts/
+Lib/
+Scripts/
